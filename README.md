@@ -10,6 +10,7 @@
 ## Powered by Laravel
 
 - create new project
+- git init
 - git pull https://github.com/andreyVasarovsky/discover_cars.git
 - npm install
 - composer install
